@@ -1,13 +1,13 @@
 # acl-papers
 自然言語処理の国際会議ACLの採択論文のサマリーを置くリポジトリです。  
 [ACL2017/Papers](http://aclweb.org/anthology/P/P17/)  
-[ACL2018/Accepted Papers](https://acl2018.org/programme/papers/)
+[ACL2018/Papers](https://aclanthology.info/events/acl-2018)
 
 ## Paper summary
 論文のサマリーはIssueにまとめています。  
 各サマリーには以下のプログラムページのカテゴリ分けに基づいたタグをつけています。  
 [ACL2017/Program](http://acl2017.org/program)  
-ACL2018/Coming soon!
+[ACL2018/Program](https://acl2018.org/programme/schedule/)
 
 ## Progress
 サマリの進捗はGitHub Projectsで管理しています。  
