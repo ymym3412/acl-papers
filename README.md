@@ -3,6 +3,8 @@
 [ACL2017/Papers](http://aclweb.org/anthology/P/P17/)  
 [ACL2018/Papers](https://aclanthology.info/events/acl-2018)
 
+※ACL2019はこちら-> http://xpaperchallenge.org/nlp/summaries
+
 ## Paper summary
 論文のサマリーはIssueにまとめています。  
 各サマリーには以下のプログラムページのカテゴリ分けに基づいたタグをつけています。  
